@@ -6,7 +6,7 @@ This repository contains a **synthetically generated M-Pesa transaction dataset*
 
 The dataset is created entirely through simulation and **does not contain real customer data**, personally identifiable information (PII), or proprietary Safaricom transaction records.
 
-It is intended for **exploratory analysis, visualization, behavioural research, and analytical storytelling**, particularly in contexts where real/accurate mobile money data cannot be shared.
+It is intended for **exploratory analysis, visualisation, behavioural research, and analytical storytelling**, particularly in contexts where real/accurate mobile money data cannot be shared.
 
 ---
 
@@ -20,7 +20,7 @@ It is intended for **exploratory analysis, visualization, behavioural research, 
 
 ---
 
-## Data Sources and Conceotual Foundations
+## Data Sources and Conceptual Foundations
 
 The synthetic data generation logic is informed by three main reference categories:
 
